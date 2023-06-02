@@ -27,7 +27,7 @@ pip install nltk
 ```
 
 ## Limitations
-- The program assumes that the text file provided by the user is in a readable format. It will not return any data for non tecxt based file.
+- The program assumes that the text file provided by the user is in a readable format. It will not return any data for non text based file.
 - The program currently only supports ASCII text files. Support for other text encodings can be added by modifying the code accordingly.
 - The accuracy of word frequency analysis and average word length calculation may vary based on the complexity of the text and the presence of unusual word formations.
 
