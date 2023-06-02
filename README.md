@@ -37,25 +37,21 @@ Feel free to enhance the program with additional features or improvements to ove
 Here are some examples of how the program can be used:
 
 ```
-Enter the file path: path/to/your/file.txt
-Enter the value of 'n' for most frequent words: 10
+Enter the file path: /path/to/your/textfile.txt
+Enter the value of 'n' for most frequent words: 5
 
 ---- Text Analysis Results ----
 Most frequent words:
-1. word1 - 50 occurrences
-2. word2 - 42 occurrences
-3. word3 - 36 occurrences
-4. word4 - 30 occurrences
-5. word5 - 25 occurrences
-6. word6 - 22 occurrences
-7. word7 - 18 occurrences
-8. word8 - 15 occurrences
-9. word9 - 12 occurrences
-10. word10 - 10 occurrences
+1. adventure - 23 occurrences
+2. journey - 18 occurrences
+3. explore - 15 occurrences
+4. fascinating - 12 occurrences
+5. lessons - 10 occurrences
 
-Number of unique words: 500
+Number of unique words: 456
 
-Average word length: 5.2
+Average word length: 6.2
+
 ```
 
 ## Conclusion
